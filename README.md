@@ -1,3 +1,20 @@
+# Hi, I'm Mohd Arshad 👋
+
+I'm a passionate learner and aspiring developer who enjoys building things with code. I'm currently focused on web development and Python programming, and I love turning ideas into working projects.
+
+## 🛠️ Skills
+- **HTML** – building clean, structured web pages
+- **Python** – scripting, problem solving, and automation
+- Always learning new tools and technologies
+
+## 🚀 What I'm Doing
+- Working on small projects to sharpen my skills
+- Exploring web development and Python
+- Writing cleaner and better code every day
+
+## 📫 Let's Connect
+Open to learning, collaboration, and new opportunities. Feel free to reach out!
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/urfav__arshad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dealflowmediya@gmail.com) 
